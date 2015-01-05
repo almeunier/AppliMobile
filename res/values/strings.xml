@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterSearchActivity</string>
+	<string name="intro">Enter your Twitter search term</string>
+	<string name="hint">Search Term</string>
+	<string name="action_settings">Search Term</string>
+	<string name="search_label">Search</string>
+	<string name="placeholder">---</string>
+
+</resources>
